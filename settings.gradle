@@ -1,0 +1,3 @@
+include ':LocationUtils'
+include ':app'
+rootProject.name = "LocationUtilsExample"
